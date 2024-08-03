@@ -1,0 +1,83 @@
+{
+    "users": {
+        "admin@ctf.de": {
+            "username": "Admin",
+            "password": "pbkdf2:sha256:260000$ondrhHbVoXcE4Xbz$8f6ec02d074e5d4c4c67a29ae475040b0e76897d6870aa49d4285ab38013adda",
+            "description": "Update your description.s"
+        },
+        "Raj@waterfall.eu": {
+            "username": "Raj",
+            "password": "pbkdf2:sha256:260000$Tavewm6fAYz4omoF$cbd3a57eb20078b73abd57fec67c63f030a838b5012ebf87e11b2e97a0358b74",
+            "description": "Update your description."
+        },
+        "Alex@waterfall.eu": {
+            "username": "Alex",
+            "password": "pbkdf2:sha256:260000$KZodpTAm8Tb3Cbgc$fae14a75dd14ac8a9b6b3a37f62cc28b9ba14601e4a9b9011597c0e6cc247644",
+            "description": "Update your description."
+        },
+        "Bob@waterfall.eu": {
+            "username": "Bob",
+            "password": "pbkdf2:sha256:260000$pRg0NJWI5MXIwBfx$d57607104bac787c3af2032b2df477f76e4d976c763f9a66829f19ba131900cd",
+            "description": "Update your description."
+        },
+        "Cindy@waterfall.eu": {
+            "username": "Cindy",
+            "password": "pbkdf2:sha256:260000$7d7y054CCXvUVOYx$4a57ac504b8ae0f7c99e2ef446c1c700f61ddbb23be469072be17a6d8f6581e2",
+            "description": "Update your description."
+        },
+        "john.doe@example.com": {
+            "username": "John Doe",
+            "password": "pbkdf2:sha256:260000$eSgQcJnBzKjHD3SU$e3935773664660618498881c86f91a5092f9a37a8ffba3a215a3f1db95be8f6f",
+            "description": "Update your description."
+        },
+        "jane.smith@example.com": {
+            "username": "Jane Smith",
+            "password": "pbkdf2:sha256:260000$TEOW86KOVkRrtqBt$b0600ca00024ccfa1e7391b472e0d609ad318723700576e46be6d57cae0700e3",
+            "description": "Update your description."
+        },
+        "michael.brown@example.com": {
+            "username": "Michael Brown",
+            "password": "pbkdf2:sha256:260000$XFJnLgfUXj4xoXft$b10dbd301e0e05c6ce660fdb11a9eaa5ed5ca64cf127952199b7016fdf5d7ac0",
+            "description": "Update your description."
+        },
+        "emily.jones@example.com": {
+            "username": "Emily Jones",
+            "password": "pbkdf2:sha256:260000$BZGmz9RUjKtcQ9GE$def98967c433fd71beea925d3ff9c1f40738955abcd95a1360d84c1294bceeb4",
+            "description": "Update your description."
+        },
+        "h@mail.com": {
+            "username": "h",
+            "password": "pbkdf2:sha256:260000$lc9sEvWTh2wYHZlt$4aee5b16306a2dc8a6e7f62e551948ad3ca6444d56f0a2069220213050f9627c",
+            "description": "I will win this CTF"
+        }
+    },
+    "files": {
+        "admin@ctf.de": [
+            "uploads/Admin/secret_msg.txt"
+        ],
+        "Raj@waterfall.eu": [
+            "uploads/Raj/share1.txt"
+        ],
+        "Alex@waterfall.eu": [
+            "uploads/Alex/share2.txt"
+        ],
+        "Bob@waterfall.eu": [
+            "uploads/Bob/share3.txt"
+        ],
+        "Cindy@waterfall.eu": [
+            "uploads/Cindy/share4.txt"
+        ],
+        "john.doe@example.com": [
+            "uploads/John Doe/john_file1.txt"
+        ],
+        "jane.smith@example.com": [
+            "uploads/Jane Smith/jane_file1.txt"
+        ],
+        "michael.brown@example.com": [
+            "uploads/Michael Brown/michael_file1.txt"
+        ],
+        "emily.jones@example.com": [
+            "uploads/Emily Jones/emily_file1.txt"
+        ]
+    }
+}
